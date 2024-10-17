@@ -1,0 +1,82 @@
+.red{
+  background-color: red;
+}
+.white{
+  background-color:white;
+}
+.Card{
+  width: 250px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 30px;
+}
+.DeleteTitleBtn{
+  width: 90%;
+  height: 30px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}
+.DeleteTitleBtn:hover{
+ background-color: rgb(80, 80, 237);
+}
+
+
+.Delete{
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  height: 25px;
+  width: 150px; 
+  margin: 10px;
+}
+.complateBtn{
+  background-color:green;
+  color: white;
+  border-radius: 10px;
+  height: 25px;
+  width: 150px; 
+  margin: 20px;
+}
+.input{
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin: 20px;
+}
+.inputBtn{
+background-color: black;
+width: 150px;
+height: 40px;
+border-radius: 10px;
+color: white;
+}
+
+.inputBtn:hover{
+  background-color: rgb(76, 76, 76);
+}
+.increment, .decrement{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  margin-left: 20px;
+  font-size: 30px;
+}
+.count{
+  margin-left: 70px;
+  font-size: 40px;
+}
+
+.LightRedModi{
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  margin-left: 100px;
+}
